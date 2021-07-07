@@ -1,8 +1,23 @@
-img {
-    max-width: 200px;
+/*img {*/
+    /*max-width: 200px;
+  } */
+  .container {
+
+    padding-top: 5px;
+    background-color:transparent;
+    display: inside;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: center;
+    height: 75%;
+    text-align: center;
   }
   
   body {
-    background-color:#dfe5f2;
+    background-size: cover;
+    background-color:#e166e6;
     text-align: center;
 }
+
+
