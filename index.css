@@ -20,4 +20,15 @@
     text-align: center;
 }
 
+#button-fetch {
+  font-size: 30px;
+  background-color: pink;
+}
 
+#catpara {
+  font-family: garamond;
+}
+
+#display-fetch {
+  font-family: garamond;
+}
